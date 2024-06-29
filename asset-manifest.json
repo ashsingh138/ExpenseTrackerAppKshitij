@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashsingh138/ExpenseTrackerAppKshitij/static/css/main.375c6c59.css",
+    "main.js": "/ashsingh138/ExpenseTrackerAppKshitij/static/js/main.f827674b.js",
+    "static/js/453.8dab33f6.chunk.js": "/ashsingh138/ExpenseTrackerAppKshitij/static/js/453.8dab33f6.chunk.js",
+    "index.html": "/ashsingh138/ExpenseTrackerAppKshitij/index.html",
+    "main.375c6c59.css.map": "/ashsingh138/ExpenseTrackerAppKshitij/static/css/main.375c6c59.css.map",
+    "main.f827674b.js.map": "/ashsingh138/ExpenseTrackerAppKshitij/static/js/main.f827674b.js.map",
+    "453.8dab33f6.chunk.js.map": "/ashsingh138/ExpenseTrackerAppKshitij/static/js/453.8dab33f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.375c6c59.css",
+    "static/js/main.f827674b.js"
+  ]
+}
